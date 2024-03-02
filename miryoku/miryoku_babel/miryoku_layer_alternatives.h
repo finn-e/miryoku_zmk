@@ -73,9 +73,9 @@ U_LT(U_BUTTON, W), U_MT(RALT, X),     &kp C,             &kp V,             &kp 
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_BEAKL15 \
-&kp DOT,              &kp COMMA,         &kp U,             &kp SQT,           &kp Q,           &kp K,             &kp G,             &kp H,             &kp C,             &kp W,             \
-U_MT(LGUI, A),        U_MT(LALT, O),     U_MT(LCTRL, E),    U_MT(LSHFT, I),    &kp P,           &kp M,             U_MT(LSHFT, T),    U_MT(LCTRL, N),    U_MT(LALT, S),     U_MT(LGUI, R),     \
-U_LT(U_BUTTON, SEMI), U_MT(RALT, X),     &kp Z,             &kp Y,             &kp J,           &kp B,             &kp D,             &kp L,             U_MT(RALT, F),     U_LT(U_BUTTON, V), \
+&kp DOT,               &kp COMMA,         &kp U,             &kp SQT,           &kp Q,           &kp K,             &kp G,             &kp H,             &kp C,             &kp W,             \
+U_MT(LGUI, A),         U_MT(LALT, O),     U_MT(LCTRL, E),    U_MT(LSHFT, I),    &kp P,           &kp M,             U_MT(LSHFT, T),    U_MT(LCTRL, N),    U_MT(LALT, S),     U_MT(LGUI, R),     \
+U_LT(U_BUTTON, SLASH), U_MT(RALT, X),     &kp Z,             &kp Y,             &kp J,           &kp B,             &kp D,             &kp L,             U_MT(RALT, F),     U_LT(U_BUTTON, V), \
 U_NP,              U_NP,              U_LT(U_MEDIA, ESC),U_LT(U_NAV, SPACE),U_LT(U_MOUSE, TAB),U_LT(U_SYM, RET),  U_LT(U_NUM, BSPC), U_LT(U_FUN, DEL),  U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_COLEMAK \
